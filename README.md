@@ -1,5 +1,5 @@
 # PMO-Project-Dashboard
-PMO dashboard using Excel and Power BI
+PMO dashboard using Excel 
 
 
 ## 📊 Overview
