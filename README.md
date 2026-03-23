@@ -7,13 +7,12 @@ This is a PMO portfolio project to simulate real-time project tracking.
 
 ## 🔧 Tools Used
 - Excel
-- Power BI
+
 
 ## 📌 Features
 - Project tracking (status, deadlines)
 - Risk management (severity, mitigation)
 - Resource utilization tracking
-- KPI dashboard
 
 ## 💡 Insights
 - Identified delayed tasks
