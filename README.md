@@ -20,5 +20,6 @@ This is a PMO portfolio project to simulate real-time project tracking.
 - Improved reporting visibility
 
 ## 📸 Dashboard Preview
-<img width="1084" height="426" alt="Screenshot 2026-03-20 173624" src="https://github.com/user-attachments/assets/bc7637c6-250f-4d1e-8636-3bd4022a9fa2" />
+![pmo ](https://github.com/user-attachments/assets/0bd30c71-463b-4f45-929a-e4abdd0c237d)
+
 
